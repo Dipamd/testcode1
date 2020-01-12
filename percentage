@@ -24,7 +24,7 @@ void main()
    }
    else
    {
-       printf("\n fail");
+       printf("\n candidate is fail");
    }
    return 0;
 }
